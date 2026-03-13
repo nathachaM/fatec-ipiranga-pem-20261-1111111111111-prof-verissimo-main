@@ -1,3 +1,9 @@
+/*
+Matéria: Programação Estruturada e Modular
+Atividade semana 3
+Aluna:Nathacha Martins Andrade Oliveira
+*/
+
 #include <stdio.h>
 #include <string.h>
 
@@ -75,5 +81,6 @@ int main(){
         }
 
     }while(opcao != 0);
+
 
 }
