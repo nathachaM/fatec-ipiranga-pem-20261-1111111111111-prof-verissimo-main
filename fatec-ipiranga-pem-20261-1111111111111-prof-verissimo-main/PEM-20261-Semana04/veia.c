@@ -1,6 +1,6 @@
 /*
 Matéria: Programação Estruturada e Modular
-Atividade 4
+Atividade semana 4
 Aluna:Nathacha Martins Andrade Oliveira
 */
 #include <stdio.h>
@@ -113,3 +113,4 @@ int main(){
     return 0;
 
 }
+
