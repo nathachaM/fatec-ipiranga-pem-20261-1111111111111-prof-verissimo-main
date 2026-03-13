@@ -1,3 +1,8 @@
+/*
+Matéria: Programação Estruturada e Modular
+Atividade 4
+Aluna:Nathacha Martins Andrade Oliveira
+*/
 #include <stdio.h>
 
 void matriz(char veia[3][3]){
@@ -106,4 +111,5 @@ int main(){
     }
 
     return 0;
+
 }
